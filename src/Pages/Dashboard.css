@@ -1,0 +1,25 @@
+.dashboard{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    color: white;
+    height: 100px;
+}
+
+.sidebar{
+    background-color: rgb(160, 160, 201);
+    height: 800px;
+    width: 200px;
+    line-height: 40px;
+    font-size: larger;
+    padding-left: 30px;
+}
+a{
+    margin-left: 50px;
+}
+h1{
+    margin-left: 50px;
+}
+.sideout{
+    display: flex;
+}
