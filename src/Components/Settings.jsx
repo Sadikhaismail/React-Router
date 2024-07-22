@@ -4,6 +4,7 @@ function Settings() {
   return (
     <div>
       <h1>Settings is here</h1>
+      
     </div>
   )
 }
